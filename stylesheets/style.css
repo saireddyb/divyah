@@ -396,7 +396,7 @@ input[type="color"],
 
 .header .logo,
 .menu.menu-extra {
-	width: 6%;
+	/* width: 6%; */
 }
 
 .header .logo a {
@@ -453,7 +453,7 @@ input[type="color"],
 }
 
 .header.header-style3 .logo a {
-	border: 1px solid #ccc;
+	border: 0px solid #ccc;
 }
 
 .header.header-style3 #mainnav > ul > li > a,
