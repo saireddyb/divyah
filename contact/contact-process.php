@@ -2,7 +2,7 @@
 
 // define("WEBMASTER_EMAIL", 'themesflat@gmail.com');
 //$address = "example@themeforest.net";
-$address = "sales@insightsbuzz";
+$address = "sales@divyah.co.in";
 if (!defined("PHP_EOL")) define("PHP_EOL", "\r\n");
 
 $error = false;
