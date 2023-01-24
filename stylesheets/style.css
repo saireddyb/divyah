@@ -400,7 +400,7 @@ input[type="color"],
 }
 
 .header .logo a {
-	border: 1px solid #333;
+	border: 0px solid #333;
 	padding: 2px 2px;
 	display: inline-block;
 }
